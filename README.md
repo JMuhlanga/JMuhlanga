@@ -30,14 +30,12 @@ I am a Full Stack Software Engineer with over 3 years of experience specializing
 ## 📂 Featured Projects
 
 ### 🏥 CHAK HMIS Integrations
-🔗 https://github.com/JMuhlanga
 
 - **M-Pesa Integration:** Real-time STK Push and callback handling for patient billing using Node.js and Go.
 - **eTIMS Integration:** Automated tax compliance and digital signature setup via the KRA OSCU API.
 - **AfyaLink Gateway:** An interoperability layer connecting HMIS to SHA platforms for automated insurance processing.
 
 ### 💳 Financial Transaction Gateway
-🔗 https://github.com/JMuhlanga
 
 - A secure peer-to-peer transaction system built with **Spring Boot** and **PostgreSQL**, featuring JWT-based authentication.
 
