@@ -3,7 +3,7 @@
 ### Full Stack Software Engineer & DevOps Enthusiast  
 **Nairobi, Kenya** 🇰🇪
 
-I am a Full Stack Software Engineer with over 3 years of experience specializing in scalable backend systems and modern frontend applications. I bridge the gap between robust development (Java, PHP, Go) and seamless cloud deployment using Docker, Kubernetes, and CI/CD pipelines.
+I am a Full Stack Software Engineer with over 4 years of experience specializing in scalable backend systems and modern frontend applications. I bridge the gap between robust development (Java, PHP, Go) and seamless cloud deployment using Docker, Kubernetes, and CI/CD pipelines.
 
 ---
 
