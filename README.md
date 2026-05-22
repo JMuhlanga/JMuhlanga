@@ -13,7 +13,7 @@ I am a Full Stack Software Engineer with over 4 years of experience specializing
 | :--- | :--- |
 | **Languages** | Java, PHP, JavaScript, Go, Kotlin, C#, Python, Scala, Bash |
 | **Frameworks** | Spring Boot, Laravel, Node.js, React, Next.js, Express, Flutter |
-| **DevOps & Cloud** | Git, Linux, CI/CD, Docker, GCP, Azure, Jenkins, Kubernetes |
+| **DevOps & Cloud** | Git, Linux, CI/CD, Docker, AWS, GCP, Azure, Jenkins, Kubernetes |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Redis, GraphQL |
 | **Messaging** | Kafka, RabbitMQ |
 
